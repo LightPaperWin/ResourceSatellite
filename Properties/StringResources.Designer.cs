@@ -142,6 +142,15 @@ namespace LightPaper.ResourceSatellite.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to OK.
+        /// </summary>
+        public static string _ok {
+            get {
+                return ResourceManager.GetString("_ok", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Paste as Image.
         /// </summary>
         public static string _pasteAsImage {
@@ -156,6 +165,15 @@ namespace LightPaper.ResourceSatellite.Properties {
         public static string _pasteAsLink {
             get {
                 return ResourceManager.GetString("_pasteAsLink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Preview Theme.
+        /// </summary>
+        public static string _previewThemeOptionLabel {
+            get {
+                return ResourceManager.GetString("_previewThemeOptionLabel", resourceCulture);
             }
         }
         

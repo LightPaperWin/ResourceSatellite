@@ -186,4 +186,7 @@
   <data name="_previewThemeOptionLabel" xml:space="preserve">
     <value>Preview Theme</value>
   </data>
+  <data name="_ok" xml:space="preserve">
+    <value>OK</value>
+  </data>
 </root>
